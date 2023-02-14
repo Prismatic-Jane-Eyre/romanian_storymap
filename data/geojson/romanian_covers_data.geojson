@@ -1,0 +1,11 @@
+data={
+"type": "FeatureCollection",
+"name": "romanian_covers_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": 44.446408210199998, "lng": 26.090365240400001, "Place": "Bucharest", "Country": "Romania", "Language": "Romanian", "Year": 1970, "Translator": "Paul B. Marian and Dumitru Mazilu", "img": "https://raw.githubusercontent.com/digitalkoine/romanian_storymap/main/romanian/1970%20Marian%20and%20Mazilu.jpg", "Title": "Jane Eyre", "Publisher": "Minerva", "Address": "-", "Comments": "Marian and Mazilu's translation was first published in 1956" }, "geometry": { "type": "Point", "coordinates": [ 26.090365240400001, 44.446408210199998 ] } },
+{ "type": "Feature", "properties": { "lat": 44.435639454099999, "lng": 26.0992223963, "Place": "Bucharest", "Country": "Romania", "Language": "Romanian", "Year": 1970, "Translator": "Paul B. Marian and Dumitru Mazilu", "img": "https://raw.githubusercontent.com/digitalkoine/romanian_storymap/main/romanian/1972%20Marian%20and%20Mazilu.jpg", "Title": "Jane Eyre", "Publisher": "Editura Eminescu", "Address": "-", "Comments": "-" }, "geometry": { "type": "Point", "coordinates": [ 26.0992223963, 44.435639454099999 ] } },
+{ "type": "Feature", "properties": { "lat": 44.4815223178, "lng": 26.1236658304, "Place": "Bucharest", "Country": "Romania", "Language": "Romanian", "Year": 2009, "Translator": "Radu Lazar", "img": "https://raw.githubusercontent.com/digitalkoine/romanian_storymap/main/romanian/2009%20Laza%CC%86r.jpg", "Title": "Jane Eyre", "Publisher": "Adevarul Holding: Leda", "Address": "-", "Comments": "-" }, "geometry": { "type": "Point", "coordinates": [ 26.1236658304, 44.4815223178 ] } },
+{ "type": "Feature", "properties": { "lat": 44.444900038100002, "lng": 26.067354870700001, "Place": "Bucharest", "Country": "Romania", "Language": "Romanian", "Year": 2013, "Translator": "Mirella Acsente and Cornel Mihai Ionescu", "img": "https://raw.githubusercontent.com/digitalkoine/romanian_storymap/main/romanian/2013%20Acsente%20and%20Ionescu.jpg", "Title": "Jane Eyre", "Publisher": "Corint", "Address": "-", "Comments": "Acsente and Ionescu's translation was first published in 2005" }, "geometry": { "type": "Point", "coordinates": [ 26.067354870700001, 44.444900038100002 ] } }
+]
+}
